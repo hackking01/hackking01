@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hackking01
+- 👀 I’m interested in javascript, java, angular, nestjs , projects
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on javascript, nestjs , angular
+- 📫 How to reach me : hackingkingdome700@gmail.com
